@@ -1,0 +1,12 @@
+# Personal files — never upload
+*.pdf
+*.docx
+.env
+# Python
+__pycache__/
+.venv/
+
+.DS_Store
+Analysis/data/
+# Personal: compares the market to your resume
+Analysis/REPORT.md
